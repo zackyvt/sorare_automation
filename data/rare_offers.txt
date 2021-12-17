@@ -1,0 +1,1048 @@
+-- jean-victor-makengo-2021-rare-17 --
+id: SingleSaleOffer:afc0e55c-0fc3-4d7f-a371-7f4d1727265f
+blockchain_id: 1740423653283488719017031146052907806628
+rarity: rare
+price: ETH 0.0582
+historical price: ETH 0.0384045727482679
+price change: 51.54445378545426%
+
+-- marcos-junior-lima-dos-santos-2021-rare-9 --
+id: SingleSaleOffer:2f11e5b8-1abb-4f7a-8e14-1c051d6b770a
+blockchain_id: 3968846505377270089913286116112289440995
+rarity: rare
+price: ETH 0.24
+historical price: ETH 0.15617859965885922
+price change: 53.6702214799158%
+
+-- angelo-smit-preciado-quinonez-2021-rare-3 --
+id: SingleSaleOffer:d94b989f-7494-48cc-8898-701df3c87665
+blockchain_id: 206356498440219413169078993182483095492
+rarity: rare
+price: ETH 0.065
+historical price: ETH 0.04041127851915625
+price change: 60.84618547564118%
+
+-- danilo-luiz-da-silva-2021-rare-19 --
+id: SingleSaleOffer:f9f402de-c0f4-41b3-a228-64bded02324f
+blockchain_id: 14239433691331129742673664619633933229
+rarity: rare
+price: ETH 0.18
+historical price: ETH 0.18716906302632746
+price change: -3.830260680056437%
+
+-- edgar-badia-guardiola-2021-rare-9 --
+id: SingleSaleOffer:24f7478a-4e1f-4007-b877-d445cf0011c6
+blockchain_id: 1967468748227193492940559234891584658726
+rarity: rare
+price: ETH 0.4181
+historical price: ETH 0.16761713106295154
+price change: 149.43751115927125%
+
+-- anibal-cesis-godoy-2020-rare-60 --
+id: SingleSaleOffer:5aecbb16-263f-4a4f-a612-7ac639855e3f
+blockchain_id: 308950314536928470189902826664141075655
+rarity: rare
+price: ETH 0.0429
+historical price: ETH 0.035852279294375324
+price change: 19.657664294527454%
+
+-- jung-soo-park-2021-rare-51 --
+id: SingleSaleOffer:529374b7-81a4-4d57-94d5-ccebd798b3b0
+blockchain_id: 2987043435401595961129419365323292851134
+rarity: rare
+price: ETH 0.0038
+historical price: ETH 0.009022742972527767
+price change: -57.884204265042804%
+
+-- ismail-azzaoui-2020-rare-25 --
+id: SingleSaleOffer:1716c7c6-6c3f-4d6a-aeea-0b187e73fce0
+blockchain_id: 49016159422744961342136421429407687161
+rarity: rare
+price: ETH 0.0472
+historical price: ETH 0.0474157503221524
+price change: -0.4550182601488965%
+
+-- thiago-galhardo-do-nascimento-rocha-2021-rare-11 --
+id: SingleSaleOffer:d5c0ae34-ac02-459a-b112-c315300529f0
+blockchain_id: 2702790071374164053535340834221521162466
+rarity: rare
+price: ETH 0.0432
+historical price: ETH 0.037059001782531194
+price change: 16.570867864993442%
+
+-- kerim-mrabti-2021-rare-33 --
+id: SingleSaleOffer:45c876c4-7dae-4e9a-86ef-21a24f282319
+blockchain_id: 2569232150262869263833166263822900898598
+rarity: rare
+price: ETH 0.2774
+historical price: ETH 0.17279190708130376
+price change: 60.5399261375563%
+
+-- luis-fernando-diaz-marulanda-2019-rare-78 --
+id: SingleSaleOffer:a49d85e2-6f0c-4c9a-a23f-2f842dbdfd80
+blockchain_id: 2081401679237657751735840266343020579272
+rarity: rare
+price: ETH 1.3937
+historical price: ETH 0.210283233730879
+price change: 562.7727637970702%
+
+-- paulo-otavio-rosa-silva-2021-rare-13 --
+id: SingleSaleOffer:b579aa7e-c34d-4243-8b48-2ae46c0fdb3c
+blockchain_id: 391192333194679490415596196293088975446
+rarity: rare
+price: ETH 0.0499
+historical price: ETH 0.06593333333333333
+price change: -24.317492416582404%
+
+-- arthur-silva-feitoza-2020-rare-18 --
+id: SingleSaleOffer:fedbdce6-32ee-491a-a77d-7a20ec62dc4d
+blockchain_id: 392413003912554229773049310795655883110
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- kristoffer-askildsen-2020-rare-34 --
+id: SingleSaleOffer:2d5e2cb5-a778-4a1f-ad55-26676d77631c
+blockchain_id: 7929639559652335928409807223080056934
+rarity: rare
+price: ETH 0.0554
+historical price: ETH 0.03711314475873544
+price change: 49.27325711723827%
+
+-- enrique-gomez-hermoso-2021-rare-13 --
+id: SingleSaleOffer:ee1132e2-7838-4a31-a111-69cebe9cbb45
+blockchain_id: 33344140171972735089900406402364950005
+rarity: rare
+price: ETH 0.0618
+historical price: ETH 0.02957404795486601
+price change: 108.96699732926365%
+
+-- pierre-kalulu-kyatengwa-2021-rare-7 --
+id: SingleSaleOffer:b3ade594-d8ed-4d69-b001-f3873e991c71
+blockchain_id: 362658135734238325202573571440171889896
+rarity: rare
+price: ETH 0.127
+historical price: ETH 0.11372154427645789
+price change: 11.676288611823708%
+
+-- arthur-silva-feitoza-2020-rare-45 --
+id: SingleSaleOffer:cf7ee1ba-c8bd-4c53-a744-875f791aab5f
+blockchain_id: 357502848941255301382102991826869513
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- marcus-coco-2021-rare-16 --
+id: SingleSaleOffer:ac40138a-f793-42ba-bcd2-13b4ccd660c0
+blockchain_id: 321029541922088178841031627446538464112
+rarity: rare
+price: ETH 0.0283
+historical price: ETH 0.028064743355438345
+price change: 0.8382640153951952%
+
+-- brenner-souza-da-silva-2021-rare-65 --
+id: SingleSaleOffer:2fd7525b-7762-40e0-a969-78dfd45415e3
+blockchain_id: 3903336561106020875341799162985856870
+rarity: rare
+price: ETH 0.2495
+historical price: ETH 0.16258201663201668
+price change: 53.46100704649943%
+
+-- arthur-silva-feitoza-2020-rare-51 --
+id: SingleSaleOffer:f5c65440-ca6f-4f2d-b736-2960e952c6d8
+blockchain_id: 95988344032320685954356596023919109535
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- yuya-oki-2021-rare-41 --
+id: SingleSaleOffer:c2828034-3540-4769-8e10-284d3467c190
+blockchain_id: 1827083203381494188831207642073655212050
+rarity: rare
+price: ETH 4.1816
+historical price: ETH 0.5730782325711883
+price change: 629.6735004641026%
+
+-- marin-pongracic-2021-rare-1 --
+id: SingleSaleOffer:9d0da9cd-ab9f-42c8-ad4f-82b3074a046c
+blockchain_id: 2718925772133929478918564886613097021946
+rarity: rare
+price: ETH 0.1111
+historical price: ETH 0.054162382445141065
+price change: 105.12391623933604%
+
+-- arthur-silva-feitoza-2020-rare-62 --
+id: SingleSaleOffer:bdac490a-fb34-4c16-8888-ee45da8094fe
+blockchain_id: 1294672937131536651219724015433349181452
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- salvador-sevilla-lopez-2021-rare-23 --
+id: SingleSaleOffer:ed84cfca-44d1-4f28-b248-1c199f6a2495
+blockchain_id: 4215162700237975363726925275251384921633
+rarity: rare
+price: ETH 0.0225
+historical price: ETH 0.01820602564102564
+price change: 23.58545705493392%
+
+-- jorge-cuenca-barreno-2021-rare-7 --
+id: SingleSaleOffer:475b0526-25f0-4ace-b6e6-9668d5f073f2
+blockchain_id: 2288114729367294269726655443624170497477
+rarity: rare
+price: ETH 0.1937
+historical price: ETH 0.10679333333333334
+price change: 81.37836319370749%
+
+-- arthur-silva-feitoza-2021-rare-17 --
+id: SingleSaleOffer:bd92d738-c3ee-40c9-94f3-b437a933fd7a
+blockchain_id: 361484264813048418915146947143898320683
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- charles-de-ketelaere-2020-rare-72 --
+id: SingleSaleOffer:421d8fd1-6a35-42fd-a33a-b1eda644011f
+blockchain_id: 388148155211412644102194151119266417799
+rarity: rare
+price: ETH 1.3937
+historical price: ETH 0.3301723489635081
+price change: 322.112876615854%
+
+-- paul-marie-2020-rare-50 --
+id: SingleSaleOffer:1f3f668a-e489-485f-87dd-d739a72ad151
+blockchain_id: 1787042651277081979733774871912728390631
+rarity: rare
+price: ETH 0.0075
+historical price: ETH 0.015037337938141458
+price change: -50.12415075824941%
+
+-- daniel-wass-2020-rare-34 --
+id: SingleSaleOffer:7be5a543-d084-45b5-9417-19a22547133f
+blockchain_id: 411399835341244449651298789856333689211
+rarity: rare
+price: ETH 0.055
+historical price: ETH 0.05687842955885343
+price change: -3.3025341476943826%
+
+-- arthur-silva-feitoza-2021-rare-26 --
+id: SingleSaleOffer:4be295d7-50e5-4f1a-ad6c-e5f8cba73c64
+blockchain_id: 326453158207335363232268850682422364053
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- djihad-bizimana-2020-rare-46 --
+id: SingleSaleOffer:b6d5bd15-0bd4-4acb-b06d-07524e69620a
+blockchain_id: 33820117726347121971444275747262098765
+rarity: rare
+price: ETH 0.0111
+historical price: ETH 0.014340240899849825
+price change: -22.595442590394402%
+
+-- patrik-hrosovsky-2020-rare-70 --
+id: SingleSaleOffer:57cd22ca-2a35-47cb-b266-37c5ce2e57c1
+blockchain_id: 3015034532334209457421287111631879444189
+rarity: rare
+price: ETH 0.1
+historical price: ETH 0.04384338777310676
+price change: 128.08456435325772%
+
+-- adil-auassar-2020-rare-66 --
+id: SingleSaleOffer:5bed75fb-5953-424a-9137-4807bacade6a
+blockchain_id: 223634504929807722653336786214334055927
+rarity: rare
+price: ETH 0.0264
+historical price: ETH 0.016842819883738917
+price change: 56.74334928611429%
+
+-- samuel-yves-oum-gwet-2021-rare-26 --
+id: SingleSaleOffer:2bcace77-f957-4371-acb7-e4ba78d341d3
+blockchain_id: 13632695365005242131462815021550215677
+rarity: rare
+price: ETH 0.075
+historical price: ETH 0.05876953955135774
+price change: 27.617130528066706%
+
+-- dimitar-velkovski-2020-rare-15 --
+id: SingleSaleOffer:fe8eceb3-ddd3-4984-82bd-f8705b5c61dd
+blockchain_id: 2488999900132581149735831728421774644171
+rarity: rare
+price: ETH 0.043
+historical price: ETH 0.022647701288488278
+price change: 89.86474367646618%
+
+-- arthur-silva-feitoza-2021-rare-27 --
+id: SingleSaleOffer:646265da-90a1-47d9-9259-3697b4e1a4cc
+blockchain_id: 22900064514267833166647488493469928040
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- fabian-cornelio-balbuena-gonzalez-2021-rare-29 --
+id: SingleSaleOffer:2db30625-54bb-4738-93e3-804def0c5b1b
+blockchain_id: 263697805799019962123087582833330564157
+rarity: rare
+price: ETH 0.1237
+historical price: ETH 0.05484226816354982
+price change: 125.55595190028184%
+
+-- philipp-pomer-2021-rare-38 --
+id: SingleSaleOffer:91a03cfd-1602-4e69-9478-93233ebbf262
+blockchain_id: 3216137603339981703710464404962890253345
+rarity: rare
+price: ETH 0.0554
+historical price: ETH 0.03342917424518006
+price change: 65.72350723855456%
+
+-- branimir-hrgota-2021-rare-9 --
+id: SingleSaleOffer:367d0115-b49f-4992-9802-3c8ddec20ab3
+blockchain_id: 2873309347191287497117494977393546735815
+rarity: rare
+price: ETH 0.1545
+historical price: ETH 0.13649963099630996
+price change: 13.187119168239104%
+
+-- ivan-oblyakov-2020-rare-65 --
+id: SingleSaleOffer:76afa759-e7a3-418a-82c7-73a035062ea9
+blockchain_id: 1685117524770520592013481913255777963
+rarity: rare
+price: ETH 0.1382
+historical price: ETH 0.1673512127552974
+price change: -17.41918225470084%
+
+-- berkay-tolga-dabanli-2021-rare-45 --
+id: SingleSaleOffer:a863feb6-0658-45ee-b2d4-16b014a21082
+blockchain_id: 3029751399204185923335953267583041092789
+rarity: rare
+price: ETH 0.0136
+historical price: ETH 0.024242770238652313
+price change: -43.90080066709389%
+
+-- arthur-silva-feitoza-2021-rare-29 --
+id: SingleSaleOffer:e11908b2-a43a-460e-a1f5-6238efe112e3
+blockchain_id: 278314499716614389104093987581013576042
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- jeremy-morel-2021-rare-14 --
+id: SingleSaleOffer:f0f3d13b-3cb4-4974-a3e0-9858fa8d7803
+blockchain_id: 304190066423000034022342204331355957008
+rarity: rare
+price: ETH 0.013
+historical price: ETH 0.012508895552223887
+price change: 3.9260416375353095%
+
+-- arthur-silva-feitoza-2021-rare-3 --
+id: SingleSaleOffer:ffae59aa-3fde-4bb9-b25f-745d23d6b814
+blockchain_id: 622876011283321343010751223652494588552
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- casper-nielsen-2021-rare-29 --
+id: SingleSaleOffer:19ff198a-c0f4-4bf4-acd0-613777c9fe6f
+blockchain_id: 60012659165757104424407831181008604797
+rarity: rare
+price: ETH 0.33
+historical price: ETH 0.1415533680834002
+price change: 133.12762138275025%
+
+-- mees-hilgers-2021-rare-10 --
+id: SingleSaleOffer:ea2d1eea-d701-481a-8c8d-c8def2092d2a
+blockchain_id: 426465169339204833541708572812982565222
+rarity: rare
+price: ETH 0.2035
+historical price: ETH 0.05310698746578303
+price change: 283.18874730206744%
+
+-- saidou-sow-2002-07-04-2020-rare-32 --
+id: SingleSaleOffer:3a851207-cab2-490b-aaca-9d93edd3732f
+blockchain_id: 170383951530499931396810074921781620089
+rarity: rare
+price: ETH 0.172
+historical price: ETH 0.10948735807860262
+price change: 57.095762486586445%
+
+-- igor-akinfeev-2020-rare-50 --
+id: SingleSaleOffer:f2a117bb-6797-4e3b-bdb2-5d6b7af70b81
+blockchain_id: 2104050422307244002611420400163899803962
+rarity: rare
+price: ETH 0.17
+historical price: ETH 0.2331451895193807
+price change: -27.084062789179537%
+
+-- stefano-okaka-chuka-2020-rare-24 --
+id: SingleSaleOffer:de097a13-1b39-4674-9312-99f9f92966dc
+blockchain_id: 2339234038268332240039045358652927187139
+rarity: rare
+price: ETH 0.2
+historical price: ETH 0.11005046483073144
+price change: 81.73480712473128%
+
+-- otavio-edmilson-da-silva-monteiro-2019-rare-38 --
+id: SingleSaleOffer:6e221194-f628-4173-9d19-72884fb508a7
+blockchain_id: 10205796434928823073026856660658001360
+rarity: rare
+price: ETH 0.285
+historical price: ETH 0.2112534989377348
+price change: 34.90900810310429%
+
+-- arthur-silva-feitoza-2021-rare-34 --
+id: SingleSaleOffer:c883192d-982c-4ece-b888-6a6c1339798f
+blockchain_id: 2065845284374397100638978841783173743508
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- kristof-d-haene-2020-rare-15 --
+id: SingleSaleOffer:1dd2c2b8-b8ea-4614-8aa2-b3daddc869f5
+blockchain_id: 130917178737658937339407193853607987509
+rarity: rare
+price: ETH 0.0489
+historical price: ETH 0.027320713861644797
+price change: 78.98507428332641%
+
+-- remy-cabella-2021-rare-15 --
+id: SingleSaleOffer:b4909578-5704-4719-858d-cad7b21352ff
+blockchain_id: 1578123103103393450726586036901792488966
+rarity: rare
+price: ETH 4.1816
+historical price: ETH 0.16266783291123413
+price change: 2470.6373074274916%
+
+-- aleksey-ionov-2021-rare-43 --
+id: SingleSaleOffer:42d14136-a328-47b5-b8a2-99c186bb4724
+blockchain_id: 3382455554364907384536926997033217445469
+rarity: rare
+price: ETH 0.028
+historical price: ETH 0.02778544121497774
+price change: 0.7721985890459828%
+
+-- rafael-enrique-romo-perez-2021-rare-37 --
+id: SingleSaleOffer:802b03d7-070b-4a70-82ce-dd1f5a07893d
+blockchain_id: 3668666652159235534739556832482759809531
+rarity: rare
+price: ETH 0.2
+historical price: ETH 0.2793718185171523
+price change: -28.41081786217431%
+
+-- edin-dzeko-2021-rare-4 --
+id: SingleSaleOffer:ce18454c-298f-4952-965a-1c066604aa9b
+blockchain_id: 1028468764236665572113824818143911430591
+rarity: rare
+price: ETH 0.263
+historical price: ETH 0.17931634688950054
+price change: 46.668167493991795%
+
+-- sofiane-feghouli-2020-rare-44 --
+id: SingleSaleOffer:119fadc1-7887-4944-9551-44468f9d838c
+blockchain_id: 2766614524396975547331382925352198630511
+rarity: rare
+price: ETH 0.066
+historical price: ETH 0.03315229004863178
+price change: 99.08126981027023%
+
+-- arthur-silva-feitoza-2021-rare-48 --
+id: SingleSaleOffer:085e9a4c-c97a-496b-8605-86d95c77ccd5
+blockchain_id: 3501748809347615522935055261943230080265
+rarity: rare
+price: ETH 0.0139
+historical price: ETH 0.016223971448398922
+price change: -14.32430681840399%
+
+-- benjamin-rollheiser-2021-rare-31 --
+id: SingleSaleOffer:2264210f-57a9-4d71-831e-3e982d77c25c
+blockchain_id: 149637259036191563624174575012477269280
+rarity: rare
+price: ETH 0.055
+historical price: ETH 0.047316689984843195
+price change: 16.238054727872925%
+
+-- niklas-dorsch-2020-rare-68 --
+id: SingleSaleOffer:dc65b70c-8bfb-47a3-8b4c-19a60b99438c
+blockchain_id: 2717725950389924243539426604964107949832
+rarity: rare
+price: ETH 0.2999
+historical price: ETH 0.19736244428359181
+price change: 51.953934847437885%
+
+-- leonardo-german-sigali-2020-rare-49 --
+id: SingleSaleOffer:df9997af-bfd7-4dca-883f-2528936cc916
+blockchain_id: 2441605057152728640025832154462276981606
+rarity: rare
+price: ETH 0.071
+historical price: ETH 0.043601784907365576
+price change: 62.837370421517036%
+
+-- mees-hilgers-2020-rare-51 --
+id: SingleSaleOffer:7dc25db1-a230-4e1d-a725-f2d0449a4652
+blockchain_id: 1736270948200191701141345651283294165290
+rarity: rare
+price: ETH 0.172
+historical price: ETH 0.05310698746578303
+price change: 223.87451860420447%
+
+-- yasuhiro-hiraoka-2020-rare-63 --
+id: SingleSaleOffer:46f6db54-41fc-498e-98ad-44497158f25d
+blockchain_id: 367328772031508821716177911193947756680
+rarity: rare
+price: ETH 0.025
+historical price: ETH 0.018447383051494133
+price change: 35.52057725594386%
+
+-- jin-beom-an-2021-rare-58 --
+id: SingleSaleOffer:4d3fd6cb-85b8-42c5-9fee-17ed27982466
+blockchain_id: 365560481581191603330963828151071917065
+rarity: rare
+price: ETH 0.006
+historical price: ETH 0.009679920737360704
+price change: -38.01602138287817%
+
+-- pablo-nascimento-castro-2021-rare-11 --
+id: SingleSaleOffer:cab374a5-3518-4b7b-963f-f0d814a4346e
+blockchain_id: 2168396212403212874325494420543740025597
+rarity: rare
+price: ETH 4.1816
+historical price: ETH 0.060597426348340734
+price change: 6800.623099011365%
+
+-- markus-lackner-2021-rare-9 --
+id: SingleSaleOffer:fcd002d7-14a7-474d-9030-d9aabffa2a9b
+blockchain_id: 95492014332434969430629940022613051597
+rarity: rare
+price: ETH 0.024
+historical price: ETH 0.022229955947136563
+price change: 7.962427172922207%
+
+-- manfred-gollner-2021-rare-12 --
+id: SingleSaleOffer:a51077c9-627d-4125-b123-9db4d5d892b2
+blockchain_id: 368986080638155481127345788343257865974
+rarity: rare
+price: ETH 0.0199
+historical price: ETH 0.015405869720830348
+price change: 29.17154539540938%
+
+-- mark-van-der-maarel-2020-rare-63 --
+id: SingleSaleOffer:854dff86-479d-4f4f-997e-2873e5d5e3d4
+blockchain_id: 607887556299276682624402173973916679441
+rarity: rare
+price: ETH 0.099
+historical price: ETH 0.040389734682575645
+price change: 145.11178589818553%
+
+-- james-pantemis-2021-rare-54 --
+id: SingleSaleOffer:c19640c3-fb05-4d85-af4e-626e9f99b05e
+blockchain_id: 2589202878330385413813056721444263178154
+rarity: rare
+price: ETH 0.1499
+historical price: ETH 0.15194833149981662
+price change: -1.3480447462623775%
+
+-- bradley-guzan-2020-rare-35 --
+id: SingleSaleOffer:9bc660c7-9e08-4129-a438-2c058cba4ebd
+blockchain_id: 2866292177199862930627058666803905764572
+rarity: rare
+price: ETH 0.22
+historical price: ETH 0.19186844747604226
+price change: 14.661896155422014%
+
+-- marcus-coco-2020-rare-70 --
+id: SingleSaleOffer:b94d2826-2f46-4616-8ac6-378f604d5817
+blockchain_id: 3412710720233313678316224019601442411659
+rarity: rare
+price: ETH 0.03
+historical price: ETH 0.028064743355438345
+price change: 6.895686235401268%
+
+-- branimir-hrgota-2021-rare-13 --
+id: SingleSaleOffer:2637d64d-7766-4f53-8517-8d3341a32dfd
+blockchain_id: 2150503578330503480412409001373360477991
+rarity: rare
+price: ETH 0.154
+historical price: ETH 0.13649963099630996
+price change: 12.820817811707585%
+
+-- ken-iwao-2021-rare-57 --
+id: SingleSaleOffer:d4ff1afc-ac8c-4d8a-a29f-351c6f1ccf98
+blockchain_id: 2343093311390511688124250860562687951961
+rarity: rare
+price: ETH 0.0208
+historical price: ETH 0.0526578854350764
+price change: -60.49974314740574%
+
+-- caio-henrique-oliveira-silva-2021-rare-46 --
+id: SingleSaleOffer:f51f1aab-b88f-4859-8244-a28264a00878
+blockchain_id: 211025034114333142941884438973942081210
+rarity: rare
+price: ETH 0.1199
+historical price: ETH 0.13842059553349878
+price change: -13.379942097573663%
+
+-- thierry-rendall-correia-2020-rare-62 --
+id: SingleSaleOffer:0a947cd0-86b7-47d9-a223-2b624d15c2ae
+blockchain_id: 1747923924244272012220274487423776780989
+rarity: rare
+price: ETH 0.075
+historical price: ETH 0.06620867545511613
+price change: 13.278206344489757%
+
+-- sebastien-uchechukwu-ibeagha-2021-rare-13 --
+id: SingleSaleOffer:d7fa4f04-6c36-4f9a-8aba-1adc571492f8
+blockchain_id: 176737631184712198733902516841376985198
+rarity: rare
+price: ETH 0.01
+historical price: ETH 0.012964137361881626
+price change: -22.86413109596525%
+
+-- alberto-rodriguez-baro-2021-rare-5 --
+id: SingleSaleOffer:3c24a8fc-3e8f-46d1-9b34-c35808295055
+blockchain_id: 3877915787361935306841944018282931210820
+rarity: rare
+price: ETH 0.022
+historical price: ETH 0.009848362445414845
+price change: 123.3873917814901%
+
+-- ken-iwao-2021-rare-61 --
+id: SingleSaleOffer:9df05a1b-18df-483b-85cb-3013a0c18e85
+blockchain_id: 1662666498305596295237170818754234962759
+rarity: rare
+price: ETH 0.0208
+historical price: ETH 0.0526578854350764
+price change: -60.49974314740574%
+
+-- alvaro-odriozola-arzallus-2020-rare-62 --
+id: SingleSaleOffer:c4d491bd-8868-44e9-92eb-c3fd9ed9c1f3
+blockchain_id: 68113265412749467815181998091676575255
+rarity: rare
+price: ETH 0.0641
+historical price: ETH 0.0630302301864802
+price change: 1.6972329156260446%
+
+-- aleksandr-kokorin-2020-rare-8 --
+id: SingleSaleOffer:175ba355-e440-4925-a3f4-56ce1175a7bd
+blockchain_id: 61657172034691197812121262613274215912
+rarity: rare
+price: ETH 0.032
+historical price: ETH 0.045704295901709754
+price change: -29.984699755974336%
+
+-- sebastien-uchechukwu-ibeagha-2021-rare-16 --
+id: SingleSaleOffer:8c268019-955a-4ff0-8675-8821904399da
+blockchain_id: 4104096018381852569011931355821374469577
+rarity: rare
+price: ETH 0.01
+historical price: ETH 0.012964137361881626
+price change: -22.86413109596525%
+
+-- brenden-aaronson-2020-rare-42 --
+id: SingleSaleOffer:5ab4d3d6-6b63-4d12-bf55-55e375d63ed8
+blockchain_id: 21694989262595653855540158433985179340
+rarity: rare
+price: ETH 0.35
+historical price: ETH 0.31181886025954486
+price change: 12.24465374181496%
+
+-- senna-miangue-2020-rare-25 --
+id: SingleSaleOffer:5ed045fa-43c8-4441-a499-f72acbaf1a59
+blockchain_id: 80994394535870349444200351648747828985
+rarity: rare
+price: ETH 0.019
+historical price: ETH 0.031043407968512116
+price change: -38.79537962045907%
+
+-- kwasi-okyere-wriedt-2021-rare-13 --
+id: SingleSaleOffer:92993f29-85de-42ca-ac19-cb5d0be0379e
+blockchain_id: 3915343744105605015034553697254264051693
+rarity: rare
+price: ETH 0.1533
+historical price: ETH 0.10555598375409606
+price change: 45.23098980075703%
+
+-- hayato-araki-2020-rare-61 --
+id: SingleSaleOffer:139f9cb4-3995-4e84-846f-03474b4c58a1
+blockchain_id: 213425041518254154504225170418679802158
+rarity: rare
+price: ETH 1.3937
+historical price: ETH 0.09037669770410969
+price change: 1442.101045297016%
+
+-- vitor-eduardo-da-silva-matos-2021-rare-18 --
+id: SingleSaleOffer:2dd8e925-476d-4e2c-ba9c-d02f63da65a8
+blockchain_id: 123482911233928492813474765251526825512
+rarity: rare
+price: ETH 0.0306
+historical price: ETH 0.0427440225528729
+price change: -28.411042825581422%
+
+-- petrus-boumal-mayega-2021-rare-5 --
+id: SingleSaleOffer:ed2ee624-40e7-4f8a-8450-32eddc479a91
+blockchain_id: 459465035107734659610424636192614456307
+rarity: rare
+price: ETH 0.005
+historical price: ETH 0.007619999999999999
+price change: -34.383202099737524%
+
+-- jose-luis-mendes-andrade-2021-rare-6 --
+id: SingleSaleOffer:7bf9c2dc-6371-4d0a-9c7f-c738fffd89bf
+blockchain_id: 341995889395665355511189906082396583737
+rarity: rare
+price: ETH 0.075
+historical price: ETH 0.048951243058521984
+price change: 53.21367817020768%
+
+-- alvaro-borja-morata-martin-2020-rare-33 --
+id: SingleSaleOffer:f80c474f-f477-4880-a57e-922f00e5a153
+blockchain_id: 3649049276230667188828890089402164760970
+rarity: rare
+price: ETH 0.35
+historical price: ETH 0.2412248804092355
+price change: 45.09282765783886%
+
+-- antonio-moya-vega-2021-rare-29 --
+id: SingleSaleOffer:5bac6a5f-82fc-440c-a9f8-9f1e93c704e1
+blockchain_id: 2953419230125551290026408074363160224137
+rarity: rare
+price: ETH 0.047
+historical price: ETH 0.03797870597870597
+price change: 23.75355818166137%
+
+-- carlos-vinicius-alves-morais-2020-rare-6 --
+id: SingleSaleOffer:b6b34d01-3974-4313-a3a6-2d39d94865b0
+blockchain_id: 41793666622413932173979388536515918064
+rarity: rare
+price: ETH 0.293
+historical price: ETH 0.23024550017829223
+price change: 27.255472864014003%
+
+-- shumpei-naruse-2020-rare-27 --
+id: SingleSaleOffer:7980c0c7-dc7e-460e-bbfc-c2bb5f18c2f6
+blockchain_id: 1157469676103796026130354894042657833406
+rarity: rare
+price: ETH 0.015
+historical price: ETH 0.04516015557662474
+price change: -66.78487970540978%
+
+-- islam-slimani-2021-rare-8 --
+id: SingleSaleOffer:f757b469-5d65-481a-83e1-c7d0e1f0d03c
+blockchain_id: 238852411031254910773368231925724338986
+rarity: rare
+price: ETH 0.073
+historical price: ETH 0.05602306481050708
+price change: 30.30347455448189%
+
+-- shuhei-kawasaki-2021-rare-43 --
+id: SingleSaleOffer:21a27783-a8b7-4ef8-b66c-87ad78682545
+blockchain_id: 205779502820445645913690019369119524303
+rarity: rare
+price: ETH 1.3937
+historical price: ETH 0.03540667739340307
+price change: 3836.263164472113%
+
+-- francisco-javier-calvo-quesada-2021-rare-5 --
+id: SingleSaleOffer:56510929-bbd1-45ce-ad8e-873d0a000807
+blockchain_id: 178756276211668142539180461762208402841
+rarity: rare
+price: ETH 0.035
+historical price: ETH 0.060275015524736075
+price change: -41.93282291957857%
+
+-- oussama-darfalou-2020-rare-70 --
+id: SingleSaleOffer:6eb73874-9385-4563-8821-1eca7ba69260
+blockchain_id: 294279161203643206438685654681987208319
+rarity: rare
+price: ETH 0.034
+historical price: ETH 0.042134499501591725
+price change: -19.306030919589833%
+
+-- edgar-antonio-mendez-ortega-2021-rare-11 --
+id: SingleSaleOffer:1acf5d04-2985-4f93-aedf-1cc284ab7c15
+blockchain_id: 2966211874216776052917020093221235411966
+rarity: rare
+price: ETH 0.0221
+historical price: ETH 0.01682818387339864
+price change: 31.32730285253686%
+
+-- lennart-thy-2020-rare-68 --
+id: SingleSaleOffer:e8f50ac9-6913-472b-8776-60afaf51807c
+blockchain_id: 355164879933189210866288004702821854931
+rarity: rare
+price: ETH 0.123
+historical price: ETH 0.10852074960957839
+price change: 13.342379630175008%
+
+-- rubio-yovani-mendez-rubin-2021-rare-42 --
+id: SingleSaleOffer:64dec3d8-abee-4c8d-9e4a-034717f64c9c
+blockchain_id: 1339006901485338863162552806119343442
+rarity: rare
+price: ETH 0.13
+historical price: ETH 0.07575884009942004
+price change: 71.59713616179718%
+
+-- artem-galadzhan-2021-rare-2 --
+id: SingleSaleOffer:b66a0319-a4ab-4028-bdd4-a36fc9f107d2
+blockchain_id: 256383621212646426811985040866693557868
+rarity: rare
+price: ETH 0.021
+historical price: ETH 0.011716666666666667
+price change: 79.23186344238977%
+
+-- sebastian-de-maio-2021-rare-9 --
+id: SingleSaleOffer:bdca74d9-6f6b-4ee8-943a-9ddb3426462d
+blockchain_id: 1979238016365863224126967802481168914444
+rarity: rare
+price: ETH 0.015
+historical price: ETH 0.006764574479677454
+price change: 121.74343774414655%
+
+-- teddy-teuma-2021-rare-19 --
+id: SingleSaleOffer:4c37d354-9549-4ee9-b894-647bad9b70a3
+blockchain_id: 292826001142503101231390981851736700408
+rarity: rare
+price: ETH 0.65
+historical price: ETH 0.18458121484814394
+price change: 252.14851117691413%
+
+-- maxime-chanot-2021-rare-34 --
+id: SingleSaleOffer:ae2df118-124f-49c8-90d4-082fbdfbdb59
+blockchain_id: 183377928285817546934027861423850561328
+rarity: rare
+price: ETH 0.06
+historical price: ETH 0.05448265649290907
+price change: 10.126788710842337%
+
+-- kamil-piatkowski-2021-rare-27 --
+id: SingleSaleOffer:d0bf7f1e-8530-4f46-ac8c-023ac83cce06
+blockchain_id: 3247483168144246359537408161381284299448
+rarity: rare
+price: ETH 0.165
+historical price: ETH 0.11372139099941551
+price change: 45.09143666810059%
+
+-- hee-gyun-lee-2021-rare-24 --
+id: SingleSaleOffer:841397f8-015a-4599-8867-6c1bc272d1da
+blockchain_id: 305981145366979116630320740561651296390
+rarity: rare
+price: ETH 0.0122
+historical price: ETH 0.01568147080028839
+price change: -22.201175161607697%
+
+-- toni-sunjic-2019-rare-6 --
+id: SingleSaleOffer:ac04a1b7-7d4c-41a2-914d-5b4ee12e791d
+blockchain_id: 2202629687250784327628053173274177996405
+rarity: rare
+price: ETH 0.083
+historical price: ETH 0.08007811986413935
+price change: 3.648787135384702%
+
+-- yeferson-julio-soteldo-martinez-2021-rare-23 --
+id: SingleSaleOffer:f9fbf2f6-9927-4118-9281-b8b26e7b98c0
+blockchain_id: 184154758832634837302851232421416528649
+rarity: rare
+price: ETH 0.13
+historical price: ETH 0.08054275081869604
+price change: 61.40496652843854%
+
+-- ibrahim-halil-dervisoglu-2020-rare-13 --
+id: SingleSaleOffer:00c2c8c0-67ca-421a-9d0b-12185163b186
+blockchain_id: 73347712214842147272970236283478976844
+rarity: rare
+price: ETH 2.7876
+historical price: ETH 0.10477535287730727
+price change: 2560.54937869243%
+
+-- konstantinos-laifis-2020-rare-52 --
+id: SingleSaleOffer:c2b3e46b-d39b-4db8-97d7-fadac3a1dce1
+blockchain_id: 73127577531855766391548791128635148769
+rarity: rare
+price: ETH 0.159
+historical price: ETH 0.11490976939813467
+price change: 38.36943615220678%
+
+-- riku-furuyado-2021-rare-40 --
+id: SingleSaleOffer:81a82f4e-5852-4ffb-a9b3-ed4231b53c58
+blockchain_id: 9337501226924069145806054862843693651195
+rarity: rare
+price: ETH 0.008
+historical price: ETH 0.012897454138379321
+price change: -37.9722547243322%
+
+-- felipe-martins-campanholi-2020-rare-71 --
+id: SingleSaleOffer:ad54ec57-e7dc-4690-9b0f-c9b264f7cebe
+blockchain_id: 13118005275011169814402356633902089011
+rarity: rare
+price: ETH 0.01
+historical price: ETH 0.014269912352607349
+price change: -29.922484785459563%
+
+-- ozan-muhammed-kabak-2020-rare-55 --
+id: SingleSaleOffer:33416129-d9a4-4ca8-baf1-4e985f1c9116
+blockchain_id: 402555545126886528419015518372166915470
+rarity: rare
+price: ETH 2.7876
+historical price: ETH 0.1300245732235221
+price change: 2043.9024415853335%
+
+-- yuta-kamiya-2020-rare-52 --
+id: SingleSaleOffer:6ecf2e57-3c0f-44bd-9d26-bfcc1b9ee220
+blockchain_id: 29544560916237793612331247784294184974
+rarity: rare
+price: ETH 0.035
+historical price: ETH 0.04162775092352434
+price change: -15.921472518898238%
+
+-- jean-philippe-krasso-2020-rare-31 --
+id: SingleSaleOffer:1d8b3208-5cd6-4841-a85c-6a3209327091
+blockchain_id: 3063383995334012643119266217422274963239
+rarity: rare
+price: ETH 0.059
+historical price: ETH 0.033707667967513975
+price change: 75.0343573363239%
+
+-- sergio-henrique-santos-gomes-2020-rare-51 --
+id: SingleSaleOffer:c6b90142-3b8f-4b55-b3e1-f9ad3b95cd44
+blockchain_id: 2659460484125143730121428275021108404809
+rarity: rare
+price: ETH 0.1
+historical price: ETH 0.09897660270355418
+price change: 1.03397900967667%
+
+-- andres-mateus-uribe-villa-2019-rare-19 --
+id: SingleSaleOffer:64dd137c-c78c-4417-96d1-7d42086acc19
+blockchain_id: 191118314925734119535089847751622446325
+rarity: rare
+price: ETH 0.1675
+historical price: ETH 0.08223579387655487
+price change: 103.68259623228815%
+
+-- frenkie-de-jong-2021-rare-29 --
+id: SingleSaleOffer:36e5bd81-91a2-495e-a57c-1d581a9fdaba
+blockchain_id: 5751671867432222298853278983180413553
+rarity: rare
+price: ETH 0.945
+historical price: ETH 0.9050671550671552
+price change: 4.412141652613809%
+
+-- rodolfo-gilbert-pizarro-thomas-2020-rare-78 --
+id: SingleSaleOffer:3629f790-855f-4db0-a1a0-992679facbcf
+blockchain_id: 17424766008007008203910502796248412299
+rarity: rare
+price: ETH 0.06
+historical price: ETH 0.05270759663054449
+price change: 13.835583171381986%
+
+-- daan-rots-2020-rare-50 --
+id: SingleSaleOffer:a87ad867-94a8-466d-82a1-fe9654561b3f
+blockchain_id: 1322281510142093716019611085331688655307
+rarity: rare
+price: ETH 0.118
+historical price: ETH 0.07913784577576648
+price change: 49.10691445196485%
+
+-- marash-kumbulla-2020-rare-66 --
+id: SingleSaleOffer:4934f748-1c2f-482b-948d-12342a29e050
+blockchain_id: 63392530234196379163018281556727774848
+rarity: rare
+price: ETH 0.09
+historical price: ETH 0.09497234673410661
+price change: -5.23557320114207%
+
+-- david-timor-copovi-2021-rare-11 --
+id: SingleSaleOffer:7105c509-5f39-4617-bd4a-ae191c0839f9
+blockchain_id: 3085821399284026343515623312214896905
+rarity: rare
+price: ETH 0.01
+historical price: ETH 0.008566062176165805
+price change: 16.739755027975175%
+
+-- paolo-duval-goltz-2019-rare-4 --
+id: SingleSaleOffer:9352d38a-9bc2-4cef-a5db-637663379e51
+blockchain_id: 2544450341232624403132705456892885950609
+rarity: rare
+price: ETH 0.028
+historical price: ETH 0.036462382987933535
+price change: -23.208529707819654%
+
+-- byung-wook-lee-2021-rare-53 --
+id: SingleSaleOffer:c62564b8-5886-44ee-be9b-c27cc33f3373
+blockchain_id: 6466917344166673594965457887410852225613
+rarity: rare
+price: ETH 0.003
+historical price: ETH 0.011641152885997425
+price change: -74.22935658195371%
+
+-- kawin-thamsatchanan-2021-rare-6 --
+id: SingleSaleOffer:cea8bf7d-3913-4e6e-95c5-da7dcddb9ee7
+blockchain_id: 51933769326311924962897937643976557742
+rarity: rare
+price: ETH 0.0278
+historical price: ETH 0.01949115915282538
+price change: 42.628767135022834%
+
+-- naoki-maeda-2021-rare-46 --
+id: SingleSaleOffer:c218ad3f-9afe-48a8-a3e5-cf623a340187
+blockchain_id: 192303455049757766827226616153848612508
+rarity: rare
+price: ETH 0.094
+historical price: ETH 0.05074167995310666
+price change: 85.25204543261255%
+
+-- hilal-ben-moussa-2020-rare-54 --
+id: SingleSaleOffer:ec6b00b6-093a-4a91-8bdf-d0f98a2d86e9
+blockchain_id: 374650989991726959515663604502184052752
+rarity: rare
+price: ETH 0.02
+historical price: ETH 0.018303614190687368
+price change: 9.268037403103321%
+
+-- thibo-somers-2020-rare-42 --
+id: SingleSaleOffer:005b0e5c-c181-436e-8482-178bc6984aff
+blockchain_id: 54271162230318696113996326149812673559
+rarity: rare
+price: ETH 0.0885
+historical price: ETH 0.04621975480045179
+price change: 91.47656750254963%
+
+-- chang-min-lee-2021-rare-87 --
+id: SingleSaleOffer:c533cc7e-1550-4608-8f89-8734b9cf7eb8
+blockchain_id: 3902736772116869712430874827381426332302
+rarity: rare
+price: ETH 0.19
+historical price: ETH 0.09238710516536608
+price change: 105.6564059020077%
+
+-- fabricio-santos-de-jesus-2021-rare-1 --
+id: SingleSaleOffer:512230c4-0ffc-4192-a3f3-3b6b004063f9
+blockchain_id: 61609617437186633975723173063567983779
+rarity: rare
+price: ETH 0.0577
+historical price: ETH 0.039761589403973514
+price change: 45.11492338441038%
+
+-- david-timor-copovi-2021-rare-5 --
+id: SingleSaleOffer:cd8c0d26-c1be-4919-a5ec-361e1da3933d
+blockchain_id: 394635996710080440589759766741009353427
+rarity: rare
+price: ETH 0.007
+historical price: ETH 0.008566062176165805
+price change: -18.28217148041738%
+
+-- yusuke-maruhashi-2021-rare-73 --
+id: SingleSaleOffer:1c7c113a-5234-4975-9536-97bf42ae8e58
+blockchain_id: 864781622321326518619612409762900492196
+rarity: rare
+price: ETH 0.012
+historical price: ETH 0.035660318997912326
+price change: -66.34915127735532%
+
